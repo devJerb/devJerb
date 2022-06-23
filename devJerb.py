@@ -4,7 +4,7 @@ from rich.console import Console
 from rich.columns import Columns
 from rich import box
 
-console = Console(record=True, width=100, height="100")
+console = Console(record=True, width=50, height="100")
 
 directory = Tree("[link=https://www.facebook.com/gutierrez.jerby/]Jerome Gutierrez", guide_style="bold white")
 
