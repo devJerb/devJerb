@@ -1,17 +1,9 @@
-    <pre style="font-family: 'Montserrat', sans-serif,monospace">╔═══════════════════ Development Phase ════════════════════╗ <a href="https://www.facebook.com/gutierrez.jerby/">Jerome Gutierrez</a>       
-║                                                          ║ ├── Web Development    
-║     I&#x27;m an enthusiast of technology and its              ║ │   ├── JS, HTML, &amp; CSS
-║ advancements; currently an undergraduate studying BS -   ║ │   └── React JS       
-║ CSE. I love gaming too!                                  ║ │       ├── Bootstrap  
-║                                                          ║ │       ├── Chakra     
-║     My forte is web development wherein I focus on       ║ │       └── Three      
-║ <a href="https://www.javascript.com/">Javascript</a>, I do side projects with <a href="https://www.python.org/">Python</a> and <a href="https://www.java.com/en/">Java</a>.     ║ ├── Other Languages    
-║                                                          ║ │   ├── Python         
-╚══════════════════════════════════════════════════════════╝ │   ├── Java           
-                                                             │   ├── Dart           
-                                                             │   ├── C++            
-                                                             │   └── SQL            
-                                                             └── Competitive        
-                                                                 └── <a href="https://www.codewars.com/dashboard">Codewars</a>       
+<pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace"><span style="color: #000080; text-decoration-color: #000080">╔════════════════════════ </span><span style="color: #000080; text-decoration-color: #000080; font-weight: bold">Hi there</span><span style="color: #000080; text-decoration-color: #000080"> ════════════════════════╗</span> 🤓 Murli Tawari              
+<span style="color: #000080; text-decoration-color: #000080">║</span> I&#x27;m a sophomore pursuring BTECH-CSE. I love trying out   <span style="color: #000080; text-decoration-color: #000080">║</span> <span style="color: #008080; text-decoration-color: #008080">┣━━ </span>🐍 Python dev            
+<span style="color: #000080; text-decoration-color: #000080">║</span> new technologies.                                        <span style="color: #000080; text-decoration-color: #000080">║</span> <span style="color: #008080; text-decoration-color: #008080">┃   </span><span style="color: #008000; text-decoration-color: #008000">┣━━ </span>💬 <a href="https://github.com/kraanzu/gupshup">Gupshup</a>           
+<span style="color: #000080; text-decoration-color: #000080">║</span> I am currently developing different applications with    <span style="color: #000080; text-decoration-color: #000080">║</span> <span style="color: #008080; text-decoration-color: #008080">┃   </span><span style="color: #008000; text-decoration-color: #008000">┗━━ </span>💻 <a href="https://github.com/kraanzu/termtyper">Termtyper</a>         
+<span style="color: #000080; text-decoration-color: #000080">║</span> <a href="https://www.python.org/">Python</a> and I am learning <a href="https://www.rust-lang.org/">Rust</a> and <a href="https://www.typescriptlang.org/">Typescript</a>.            <span style="color: #000080; text-decoration-color: #000080">║</span> <span style="color: #008080; text-decoration-color: #008080">┗━━ </span>🔧 Competitive Programmer
+<span style="color: #000080; text-decoration-color: #000080">║</span> Oh and, I use Arch btw                                   <span style="color: #000080; text-decoration-color: #000080">║</span> <span style="color: #008080; text-decoration-color: #008080">    ┣━━ </span>⭐ <a href="https://codeforces.com/profile/easedeath">Codeforces</a>        
+<span style="color: #000080; text-decoration-color: #000080">║</span>                                                          <span style="color: #000080; text-decoration-color: #000080">║</span> <span style="color: #008080; text-decoration-color: #008080">    ┗━━ </span>⭐ <a href="https://leetcode.com/easedeath/">Leetcode</a>          
+<span style="color: #000080; text-decoration-color: #000080">╚══════════════════════════════════════════════════════════╝</span>                              
 </pre>
-    
