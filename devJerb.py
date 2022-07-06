@@ -27,7 +27,7 @@ description = """
 """
 
 # output
-panel = Panel.fit(description, border_style="red", box=box.DOUBLE, title="Development Phase", width=50)
+panel = Panel.fit(description, border_style="red", box=box.DOUBLE, title="Hello World!", width=50)
 console.print(Columns([panel, directory]))
 FORMAT = """
 <pre style="font-family: 'Montserrat', sans-serif">{code}</pre>
