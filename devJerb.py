@@ -17,7 +17,7 @@ path.add("Python")
 
 # bio
 description = """
-    Hi!👋, I like technology!
+    
 
     I am an undergraduate studying BS - CSE.
 
