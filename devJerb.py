@@ -10,23 +10,10 @@ directory = Tree("[link=https://www.facebook.com/gutierrez.jerby/]Jerome Gutierr
 
 # tools for web dev
 path = directory.add("💻 Web Development", guide_style="bold blue")
-path.add("JS, HTML, & CSS")
-framework = path.add("React JS")
-framework.add("Bootstrap")
-framework.add("Chakra")
-framework.add("Three")
-
-# other languages known
-other = directory.add("👀 Other Languages", guide_style="bold yellow")
-other.add("Python")
-other.add("Java")
-other.add("Dart")
-other.add("C++")
-other.add("SQL")
-
-# competitive site/s
-sites = directory.add("⚔️  Competitive", guide_style="bold red")
-sites.add("[link=https://www.codewars.com/dashboard]Codewars")
+path.add("JavaScript")
+path.add("React")
+path.add("Java")
+path.add("Python")
 
 # bio
 description = """
