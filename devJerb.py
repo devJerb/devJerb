@@ -30,8 +30,9 @@ sites.add("[link=https://www.codewars.com/dashboard]Codewars")
 
 # bio
 description = """
-    Hi!👋, I'm an enthusiast of technology;
-    currently an undergraduate studying BS - CSE.
+    Hi!👋, I'm an enthusiast of technology.
+
+    I am currently an undergraduate studying BS - CSE.
 
     I like making websites! I focus on [link=https://www.javascript.com/]Javascript[/].
     I do side projects with [link=https://www.python.org/]Python[/] and [link=https://www.java.com/en/]Java[/].
