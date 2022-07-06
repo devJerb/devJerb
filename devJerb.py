@@ -4,7 +4,7 @@ from rich.console import Console
 from rich.columns import Columns
 from rich import box
 
-console = Console(record=True, width=50)
+console = Console(record=True, width=150, height=100)
 
 directory = Tree("[link=https://www.facebook.com/gutierrez.jerby/]Jerome Gutierrez", guide_style="bold white")
 
@@ -17,7 +17,7 @@ path.add("Python")
 
 # bio
 description = """
-    
+    Hi!👋, I like technology!
 
     I am an undergraduate studying BS - CSE.
 
@@ -27,7 +27,7 @@ description = """
 """
 
 # output
-panel = Panel.fit(description, border_style="red", box=box.DOUBLE, title="Hello World!", width=50)
+panel = Panel.fit(description, border_style="red", box=box.DOUBLE, title="Development Phase", width=60)
 console.print(Columns([panel, directory]))
 FORMAT = """
 <pre style="font-family: 'Montserrat', sans-serif">{code}</pre>
