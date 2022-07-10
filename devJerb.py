@@ -12,18 +12,19 @@ directory = Tree("[link=https://www.facebook.com/gutierrez.jerby/]Jerome Gutierr
 path = directory.add("💻 Programming", guide_style="bold blue")
 path.add("JavaScript")
 path.add("React")
-path.add("Java")
 path.add("Python")
+path.add("PHP")
+path.add("Java")
 
 # bio
 description = """
-    Hi!👋, I like technology!
+    Hello World!👋
 
     I am an undergraduate studying BS - CSE.
 
-    I like making websites! I focus on [link=https://www.javascript.com/]Javascript[/].
+    I enjoy making [link=https://www.javascript.com/]Javascript[/] based websites.
 
-    I love music check my [link=https://soundcloud.com/discover]Soundcloud[/]! 🎶 
+    I love music, check my [link=https://soundcloud.com/discover]Soundcloud[/]! 🎶 
 """
 
 # output
