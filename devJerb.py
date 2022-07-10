@@ -18,13 +18,13 @@ path.add("Java")
 
 # bio
 description = """
-    Hello World!👋
+    Hello World!
 
     I am an undergraduate studying BS - CSE.
 
     I enjoy making [link=https://www.javascript.com/]Javascript[/] based websites.
 
-    I love music, check my [link=https://soundcloud.com/discover]Soundcloud[/]! 🎶 
+    I love music, check my [link=https://soundcloud.com/discover]Soundcloud[/]!
 """
 
 # output
